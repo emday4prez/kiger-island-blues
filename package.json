@@ -2,7 +2,7 @@
   "name": "kiger-island",
   "version": "1.0.0",
   "private": true,
-  "description": "kiger island ",
+  "description": "Hand picked blueberries from Oregon. ",
   "author": "Emerson",
   "keywords": [
     "gatsby"
@@ -17,8 +17,13 @@
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
+    "@fontsource/reenie-beanie": "^4.5.0",
+    "@react-spring/parallax": "^9.2.4",
     "gatsby": "^3.13.0",
     "gatsby-plugin-emotion": "^6.13.0",
+    "gatsby-plugin-image": "^1.13.0",
+    "gatsby-plugin-sharp": "^3.13.0",
+    "gatsby-source-filesystem": "^3.13.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
